@@ -1,7 +1,10 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    I am around the Visual Communication and Experience Design.
+  </samp>
+</p>
 
-<!--
-**olegfedak/olegfedak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **olegfedak/olegfedak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

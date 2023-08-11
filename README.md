@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    I am around the Visual Communication and Experience Design.
+    Generally, I am around Visual Communication and Experience Design, loving Web Technologies
   </samp>
 </p>
 

@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Generally, my focus encompasses <br />Visual Communication, Experience Design and Development <br /> through Web Technologies.
+    Generally, my focus encompasses <br />Visual Communication and Development <br /> through Web Technologies.
   </samp>
 </p>
 

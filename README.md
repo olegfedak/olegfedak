@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Generally, my focus encompasses <br />Visual Communication Design and Development <br /> through Web Technologies.
+    design and development activities
   </samp>
 </p>
 
